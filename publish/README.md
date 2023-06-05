@@ -1,4 +1,4 @@
-## Netlify 
+## Netlify, updated for Poetry
 
 1. Create Netlify auth token. Go to Netlify's [applications page](https://app.netlify.com/user/applications), and click on "New Access Token" to create a new personal access token.
 Give this token a memorable name, and note the resulting string (or keep this window open in a tab)
